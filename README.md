@@ -16,8 +16,7 @@ This project analyzes retail sales data of Real Mart using Power BI to uncover b
 - Category-wise Performance
 
 ## 📸 Dashboard Preview
-![Overview](https://res.cloudinary.com/dtyvdirkk/image/upload/v1771174157/Screenshot_2026-01-31_233827_dpfc0e.png)
-
+![Overview](https://res.cloudinary.com/dtyvdirkk/image/upload/v1773122411/copy_of_screenshot_2026-01-31_233827_dpfc0e_d94310.png)
 ## 🚀 Live Dashboard
 🔗 [View Interactive Dashboard](https://github.com/Abhishek121004/Real-Mart-Analysis)
 
